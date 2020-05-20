@@ -42,3 +42,5 @@ Here in FaceRecog_VGG16_224_224 and FaceRecog_VGG16_64_64, I've used VGG16.
 * __Concept.ipynb file:__ In this file I've tried my best to make the viewer understand that what is happening and why it is happening in the other two files.
 * __FaceRecog_VG16_224_224.ipynb file:__ In this file I've created the face recognition model by having the default input size of 224 x 224 pixels and then have tested the images also. Currently the model is around 69% accurate.
 * __FaceRecog_VG16_64_64.ipynb file:__ In this file I've created the face recognition model by having the default input size of 64 x 64 pixels and then have tested the images also. Currently the model is around 81% accurate. By going for 64 x 64 pixels, the training of the dataset is much faster than 224 x 224 pixel model. 
+
+![Architecture of VGG16 and Transfer Learning](https://i0.wp.com/appliedmachinelearning.blog/wp-content/uploads/2019/08/vgg16.png?resize=714%2C204&ssl=1)
